@@ -1,2 +1,2 @@
-# Python-scripts
-useful my python script
+# Python Scripts
+useful python scripts
